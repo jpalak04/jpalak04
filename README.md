@@ -32,6 +32,10 @@ Welcome to my GitHub profile! I’m a junior at **Arizona State University (Hono
 
 ---
 
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=jpala04&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpala04&layout=compact&theme=radical)
+
 ---
 
 ## 🌟 Links to My World  
