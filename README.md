@@ -32,16 +32,11 @@ Welcome to my GitHub profile! I’m a junior at **Arizona State University (Hono
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpala04&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpala04&layout=compact&theme=radical)
-
 ---
 
 ## 🌟 Links to My World  
-- [**LinkedIn**](https://www.linkedin.com/in/jpala04)  
-- [**Behance**](https://www.behance.net/)  
-- [**Portfolio**](https://your-portfolio-link.com)
+- [**LinkedIn**](https://www.linkedin.com/in/palak-jain05/)  
+- [**Portfolio**](https://fierce-fan-8bc.notion.site/jpalak)
 
 ---
 
