@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I’m a junior at **Arizona State University (Hono
 
 ---
 
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 
